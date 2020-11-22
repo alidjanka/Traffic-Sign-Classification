@@ -2,7 +2,7 @@
 
 In this group project we implemented various architectures available in Keras to classify 43 different traffic signs using the German Traffic Sign Recognition Benchmark. We compared the accuracy and the speed of these architectures by training them from scratch and also by using transfer learning. Then we compiled our results in a paper (in German), which can be found in the documentation folder.
 
-The following models are the used:
+The following models are used:
 - Resnet50
 - ResNet152V2
 - Xception
